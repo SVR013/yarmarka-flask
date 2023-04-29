@@ -1,2 +1,2 @@
-# yarmarka_flask
+# yarmarka-flask
 Backend web development with Flask
