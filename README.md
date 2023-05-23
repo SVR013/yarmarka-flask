@@ -1,3 +1,2 @@
 # yarmarka-flask
-Backend web development with Flask
-Works at yarmarka-rus.ru
+Backend web development with Flask, link: yarmarka-rus.ru
